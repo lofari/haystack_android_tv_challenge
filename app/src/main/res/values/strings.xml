@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HaystackChallenge</string>
+    <string name="search">Photo Search</string>
+    <string name="characters">Characters</string>
+</resources>
